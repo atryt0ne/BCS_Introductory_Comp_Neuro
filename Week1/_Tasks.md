@@ -1,4 +1,4 @@
-# Summaries for Week 1
+# Work for the week
 
 ## Content to Cover
 1. https://compneuro.neuromatch.io/tutorials/W0D0_NeuroVideoSeries/student/W0D0_Tutorial1.html
